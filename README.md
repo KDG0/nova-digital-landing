@@ -33,7 +33,7 @@ A high-performance, production-ready landing page for **NOVA DIGITAL**, a digita
 
 ```bash
 # Clone the repository
-git clone https://github.com/kvnguifarro/nova-digital-landing.git
+git clone https://github.com/KDG0/nova-digital-landing.git
 
 # Navigate to the project
 cd nova-digital-landing
